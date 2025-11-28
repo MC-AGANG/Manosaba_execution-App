@@ -7,6 +7,6 @@ ModuleBreakpoints2=
 ModuleClosedNodes0=6
 ModuleClosedNodes1=1
 ModuleClosedNodes2=1
-NavigationStack=B4XMainPage,Initialize,21,1,B4XMainPage,Panel2_Touch,96,4,B4XMainPage,Panel1_Touch,78,6,B4XMainPage,Timer1_Tick,53,6,B4XMainPage,VibrateWithAmplitude,73,0,可视化设计器,MainPage.bal,-100,6,B4XMainPage,Class_Globals,15,6,B4XMainPage,B4XPage_Created,37,6,Main,Activity_Create,30,0
+NavigationStack=B4XMainPage,Panel2_Touch,96,4,B4XMainPage,Panel1_Touch,78,6,B4XMainPage,VibrateWithAmplitude,73,0,可视化设计器,MainPage.bal,-100,6,B4XMainPage,Initialize,23,1,B4XMainPage,B4XPage_Created,28,6,B4XMainPage,Class_Globals,20,6,B4XMainPage,Timer1_Tick,50,6,Main,Activity_Create,34,0
 SelectedBuild=0
 VisibleModules=1
